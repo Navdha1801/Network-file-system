@@ -1,0 +1,92 @@
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12395,Port(NM to SS connection):7077,Port(client):12353
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12395,Port(NM to SS connection):7079,Port(client):12360
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12395,Port(NM to SS connection):7082,Port(client):12363
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12395,Port(NM to SS connection):7084,Port(client):12365
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12395,Port(NM to SS connection):7086,Port(client):12367
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12395,Port(NM to SS connection):7088,Port(client):12369
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: READ, Path: /dir_ctpcj/dir_hfccx/here.txt
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: READ, Path: /dir_picqp/dir_picaz/dir_tnaqz/file_lcchehe.txt
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: WRITE, Path: /dir_pfaau/dir_cscou/dir_mbbdr/file_mpe.txt
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: WRITE, Path: /dir_pfaau/dir_cscou/dir_mbbdr/file_mpe.txt
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: READ, Path: /dir_ctpcj/dir_hfccx/here.txt
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: READ, Path: /dir_ctpcj/dir_hfccx/here.txt
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: WRITE, Path: /dir_pfaau/dir_cscou/dir_mbbdr/file_mpe.txt
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: GET_INFO, Path: /dir_pfaau/dir_cscou/dir_mbbdr/file_mpe.txt
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: GET_INFO, Path: /dir_picqp/dir_picaz/dir_tnaqz/file_lcchehe.txt
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: Cfi, Path: /dir_bqays/dir_hlxuh/whats.txt
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: Cfi, Path: /dir_bqays/dir_hlxuh
+Connected to storage server with ip_address and port as 127.0.0.1:7084
+Received confirmation from storage server: Error creating file.
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: Cfo, Path: /dir_bqays/dir_hlxuh/whats.txt
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: Cfi, Path: /dir_bqays/dir_hlxuh/whats.txt
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: Cfi, Path: /dir_bqays
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: Cfi, Path: /dir_bqays/dir_hlxuh/whats.txt
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12395,Port(NM to SS connection):7077,Port(client):12353
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12395,Port(NM to SS connection):7079,Port(client):12360
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12395,Port(NM to SS connection):7082,Port(client):12363
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12395,Port(NM to SS connection):7084,Port(client):12365
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12395,Port(NM to SS connection):7086,Port(client):12367
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12395,Port(NM to SS connection):7088,Port(client):12369
+Accepted a client connection from 127.0.0.1:12395
+Received a client request - Operation: Cfi, Path: /dir_bqays/dir_hlxuh/whats.txt
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12390,Port(NM to SS connection):7077,Port(client):12353
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12390,Port(NM to SS connection):7079,Port(client):12360
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12390,Port(NM to SS connection):7082,Port(client):12363
+
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12390,Port(NM to SS connection):7077,Port(client):12353
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12390,Port(NM to SS connection):7079,Port(client):12360
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12390,Port(NM to SS connection):7082,Port(client):12363
+Accepted a client connection from 127.0.0.1:12390
+Received a client request - Operation: READ, Path: /home/navdha/gitrepo/final-project-70/root_directory/a_song_ice_fire/plot_dir/plot.txt
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12390,Port(NM to SS connection):7084,Port(client):12365
+Accepted a client connection from 127.0.0.1:12390
+Received a client request - Operation: WRITE, Path: /home/navdha/gitrepo/final-project-70/root_directory/dir_pbcui/dir_bzaca/file_ofr.txt
+Accepted a client connection from 127.0.0.1:12390
+Received a client request - Operation: GET_INFO, Path: /home/navdha/gitrepo/final-project-70/root_directory/dir_pbcui/dir_bzaca/file_oro.txt
+Accepted a client connection from 127.0.0.1:12390
+Received a client request - Operation: READ, Path: /home/navdha/gitrepo/final-project-70/root_directory/dir_pbcui/dir_bzaca/file_ofr.txt
+Accepted a client connection from 127.0.0.1:12390
+Received a client request - Operation: Dfi, Path: /home/navdha/gitrepo/final-project-70/root_directory/gravity_falls/gravity_subdir/intro.txt
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12390,Port(NM to SS connection):7086,Port(client):12367
+Accepted a client connection from 127.0.0.1:12390
+Received a client request - Operation: Cfo, Path: /home/navdha/gitrepo/final-project-70/root_directory/gravity_falls/gravity_subdir3
+Connected to storage server with ip_address and port as 127.0.0.1:7086
+Received confirmation from storage server: Made directory successfully.
+Accepted a client connection from 127.0.0.1:12390
+Received a client request - Operation: Cfi, Path: /home/navdha/gitrepo/final-project-70/root_directory/a_song_ice_fire/plot_dir/plot1.txt
+Connected to storage server with ip_address and port as 127.0.0.1:7086
+Received confirmation from storage server: file created successfully.
+Accepted a client connection from 127.0.0.1:12390
+Received a client request - Operation: Dfi, Path: /home/navdha/gitrepo/final-project-70/root_directory/gravity_falls/gravity_subdir/intro.txt
+Accepted a client connection from 127.0.0.1:12390
+Received a client request - Operation: Dfo, Path: /home/navdha/gitrepo/final-project-70/root_directory/dir_bbjmp
+Connected to storage server with ip_address and port as 127.0.0.1:7086
+Received confirmation from storage server: Could not remove directory.
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12390,Port(NM to SS connection):7086,Port(client):12367
+Accepted a client connection from 127.0.0.1:12390
+Received a client request - Operation: Dfi, Path: /home/navdha/gitrepo/final-project-70/root_directory/gravity_falls/gravity_subdir/intro.txt
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12390,Port(NM to SS connection):7086,Port(client):12367
+Accepted a client connection from 127.0.0.1:12390
+Received a client request - Operation: Dfi, Path: /home/navdha/gitrepo/final-project-70/root_directory/gravity_falls/gravity_subdir/intro.txt
+Connected to storage server with ip_address and port as 127.0.0.1:7086
+Received confirmation from storage server:  File removed successfully.
+Storage Server registered - IP: 127.0.0.1, Port (NM): 12390,Port(NM to SS connection):7084,Port(client):12365
+Accepted a client connection from 127.0.0.1:12390
+Received a client request - Operation: Dfo, Path: /home/navdha/gitrepo/final-project-70/root_directory/gravity_falls/gravity_subdir3
+Connected to storage server with ip_address and port as 127.0.0.1:7084
+Received confirmation from storage server: Directory removed succefully.
